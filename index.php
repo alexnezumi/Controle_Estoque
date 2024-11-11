@@ -12,7 +12,8 @@
 
     <header>
         <img src="img/porquinhogab.png" alt="logo">
-         <nav>
+         <nav class= "navbar navbar-expand-lg bg-body-tertiary">
+            <div class= "conmtainer-fluid">
             <ul>
                 <li><a href="#">Home</a></li>
                 <li><a href="#">Produtos</a></li>
